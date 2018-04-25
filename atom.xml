@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangfor.club/"/>
-  <updated>2018-04-25T11:05:56.194Z</updated>
+  <updated>2018-04-25T11:06:58.913Z</updated>
   <id>http://wangfor.club/</id>
   
   <author>
@@ -21,21 +21,7 @@
     <link href="http://wangfor.club/2018/04/25/new-life-1/"/>
     <id>http://wangfor.club/2018/04/25/new-life-1/</id>
     <published>2018-04-25T11:05:56.000Z</published>
-    <updated>2018-04-25T11:05:56.194Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://wangfor.club/2018/04/25/new-life/"/>
-    <id>http://wangfor.club/2018/04/25/new-life/</id>
-    <published>2018-04-25T09:07:21.027Z</published>
-    <updated>2018-04-25T10:27:49.358Z</updated>
+    <updated>2018-04-25T11:06:58.913Z</updated>
     
     <summary type="html">
     
@@ -43,13 +29,14 @@
       
         
         
-          &lt;p&gt;精进!&lt;/p&gt;
-
+          &lt;p&gt;新的站点,
         
       
     
     </summary>
     
+    
+      <category term="生活" scheme="http://wangfor.club/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
