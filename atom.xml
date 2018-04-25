@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangfor.club/"/>
-  <updated>2018-04-25T08:36:54.312Z</updated>
+  <updated>2018-04-25T08:34:19.264Z</updated>
   <id>http://wangfor.club/</id>
   
   <author>
@@ -17,20 +17,6 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>叶子里的小怪兽</title>
-    <link href="http://wangfor.club/2018/04/25/%E5%8F%B6%E5%AD%90%E9%87%8C%E7%9A%84%E5%B0%8F%E6%80%AA%E5%85%BD/"/>
-    <id>http://wangfor.club/2018/04/25/叶子里的小怪兽/</id>
-    <published>2018-04-25T08:36:54.000Z</published>
-    <updated>2018-04-25T08:36:54.312Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>hello</title>
     <link href="http://wangfor.club/2018/04/25/hello/"/>
     <id>http://wangfor.club/2018/04/25/hello/</id>
@@ -38,28 +24,6 @@
     <updated>2018-04-25T08:34:19.264Z</updated>
     
     <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://wangfor.club/2018/04/25/hello-world/"/>
-    <id>http://wangfor.club/2018/04/25/hello-world/</id>
-    <published>2018-04-25T08:03:33.727Z</published>
-    <updated>2018-04-25T08:03:33.743Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
     
     </summary>
     
