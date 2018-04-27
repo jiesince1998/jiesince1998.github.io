@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangfor.club/"/>
-  <updated>2018-04-25T11:06:58.913Z</updated>
+  <updated>2018-03-29T01:40:45.672Z</updated>
   <id>http://wangfor.club/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://wangfor.club/2018/04/27/%E6%B8%B8%E6%88%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/"/>
+    <id>http://wangfor.club/2018/04/27/游戏的基本结构/</id>
+    <published>2018-04-27T13:52:41.151Z</published>
+    <updated>2018-03-29T01:40:45.672Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;游戏的基本结构:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    游戏是什么呢? 在游戏中, 往往是显示各种各样的画面, 玩家可以做一些设定好的控制, 画面根据玩家的控制有所变化.
+从这可以看出, 游戏至少需要三个功能---显示画面, 接受玩家输入和对输入产生反馈.
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>new-life</title>
